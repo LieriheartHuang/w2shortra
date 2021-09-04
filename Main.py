@@ -1,4 +1,4 @@
-a=int(input("Model-T length:\n"))
+a=int(input("Model-T length: "))
 print(".-----------"+"_"*a+".")
 print("| ### ||  ###"+"#"*a+"\")
 print("| ### ||  "+"#"*a+"####\.")
