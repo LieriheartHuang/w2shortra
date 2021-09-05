@@ -7,6 +7,7 @@
 ###
 
 a=int(input("Model-T length: \n"))
+print(" ")
 print(".-----------"+"-"*a+".")
 print("| ### ||  ###"+"#"*a+"\\")
 print("| ### ||  "+"#"*a+"####\.")
